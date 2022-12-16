@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvNa45o+l154ZCdOxl1biLpZI8J2Mu1ggz982NACinidWs+QKMu9xCxmVIiB8Nkmyk9tmmzCLCD0ivVA3drvtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jose_\\Documents\\universidad\\programacionMovil\\Nav-Layouts\\Nav-Layouts\\Nav-Layouts.iOS\\Nav-Layouts.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jose_\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jose_\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\bin\Debug\netstandard2.0\Nav-Layouts.deps.json
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\bin\Debug\netstandard2.0\Nav-Layouts.dll
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\bin\Debug\netstandard2.0\Nav-Layouts.pdb
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.csproj.AssemblyReference.cache
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.AssemblyInfoInputs.cache
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.AssemblyInfo.cs
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.dll
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\refint\Nav-Layouts.dll
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\Nav-Layouts.pdb
+C:\Users\jose_\Documents\universidad\programacionMovil\Nav-Layouts\Nav-Layouts\Nav-Layouts\obj\Debug\netstandard2.0\ref\Nav-Layouts.dll
